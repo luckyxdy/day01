@@ -1,2 +1,1 @@
-# day01
-C++ learning
+# C++ learning
